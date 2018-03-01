@@ -1,3 +1,3 @@
 # demo_git
-New demo, trying
+New demo, trying //This is a demo
 ================
